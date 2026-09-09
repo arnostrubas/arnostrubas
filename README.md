@@ -4,12 +4,30 @@ Software engineering student at Faculty of Informatics, Masaryk University (FI M
 
 I am currently looking for a part time Junior Software Engineer role (15-20 hrs/week) in Brno.
 
-Skills:
+### Skills:
+
 **Languages:** C#, Python, SQL
-**Other languages (with basic knowledge):** Java, C++, JavaScript
-**Web technologies:** HTML5, CSS, REST API
+
+**Other languages (basic knowledge):** Java, C++, JavaScript
+
+**Web technologies:** HTML5, CSS, REST APIs
+
 **Tools:** Git, Linux, Bash
 
+## Contact
+
+**e-mail:** arnost.rubas@gmail.com
+
+##Projects**
+
+**[Bachelor's thesis](https://github.com/arnostrubas/bidirectional-Dijkstra)**
+Visualisation tool for bidirectional Dijkstra algorithm
+
+**[Portfolio tracker](https://github.com/arnostrubas/portfolio_tracker)**
+Desktop aplication for tracking stock portfolio. C# / WPF using MVVM
+
+**[Summer camp scripts](https://github.com/arnostrubas/Tabor_scripts)**
+Simple scripts used for creating games for a summer camp
 
 <!--
 **arnostrubas/arnostrubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
