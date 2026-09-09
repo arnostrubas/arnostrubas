@@ -18,7 +18,7 @@ I am currently looking for a part time Junior Software Engineer role (15-20 hrs/
 
 **e-mail:** arnost.rubas@gmail.com
 
-##Projects**
+## Projects
 
 **[Bachelor's thesis](https://github.com/arnostrubas/bidirectional-Dijkstra)**
 Visualisation tool for bidirectional Dijkstra algorithm
