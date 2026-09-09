@@ -8,7 +8,7 @@ I am currently looking for a part time Junior Software Engineer role (15-20 hrs/
 
 **Languages:** C#, Python, SQL
 
-**Other languages (basic knowledge):** Java, C++, JavaScript
+**Other languages (basic knowledge):** C, Java, C++, JavaScript
 
 **Web technologies:** HTML5, CSS, REST APIs
 
